@@ -117,17 +117,47 @@ These queries support downstream analytics and are integrated with Power BI for 
 * Category-level performance comparison
 * Rating distribution analysis
 
+<p align="center">
+  <img src="images/Dashboard.png" alt="Executive Overview Dashboard" width="850"/>
+  <br/>
+  <em>Executive Overview with KPIs and Category Performance</em>
+</p>
+
 ### 2. Product Exploration
 
 * Detailed tabular view of products
 * Filtering by category, brand, price, and rating
 * Sorting and comparative analysis
 
+<p align="center">
+  <img src="images/product table page.png" alt="Product Table Page" width="850"/>
+  <br/>
+  <em>Product Exploration Page with Detailed Tabular View</em>
+</p>
+
 ### 3. Category Drill Analysis
 
 * Hierarchical breakdown using category levels (L1–L5)
 * Decomposition tree for multi-level insights
 * Brand and product-type segmentation
+
+<p align="center">
+  <img src="images/Category drill analysis.png" alt="Category Drill Analysis" width="850"/>
+  <br/>
+  <em>Category Drill Analysis with Hierarchical Breakdown</em>
+</p>
+
+### 4. Q&A Analytics
+
+* Interactive natural language queries
+* Dynamic AI-powered insights
+* On-demand data exploration
+
+<p align="center">
+  <img src="images/Q&A.png" alt="Q&A Analytics" width="850"/>
+  <br/>
+  <em>Q&A Analytics for Interactive Data Exploration</em>
+</p>
 
 ---
 
